@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GuardNull
 {
-    public class UsingExtension
+    public class UsingGuard
     {
         public static void AnyMethod(string anyString)
         {
